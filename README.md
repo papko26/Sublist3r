@@ -1,4 +1,5 @@
-
+![](https://img.shields.io/docker/pulls/papko26/sublist3r.svg)
+![](https://img.shields.io/docker/cloud/build/papko26/sublist3r.svg)
 # Sublist3r Docker image
 A Docker image of [Sublist3r](https://github.com/aboul3la/Sublist3r), for enumerating subdomains.
 
